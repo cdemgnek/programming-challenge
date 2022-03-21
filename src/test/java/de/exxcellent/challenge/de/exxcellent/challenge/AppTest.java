@@ -3,10 +3,13 @@ package de.exxcellent.challenge;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import java.io.IOException;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
  * Example JUnit 5 test case.
+ *
  * @author Benjamin Schmid <benjamin.schmid@exxcellent.de>
  */
 class AppTest {
@@ -24,8 +27,8 @@ class AppTest {
     }
 
     @Test
-    void runFootball() {
-        App.main("--football", "football.csv");
+    void runFootball() throws IOException {
+        de.exxcellent.challenge.App.main("--football", "football.csv");
     }
 
 }
