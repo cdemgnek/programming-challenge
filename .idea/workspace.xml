@@ -4,41 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59914754-4a3f-40c5-adea-5b2b17ceafdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_csv_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_4_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_4_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/programming-challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/de/exxcellent/challenge/de/exxcellent/challenge/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/de/exxcellent/challenge/de/exxcellent/challenge/Read_AnalyseData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/de/exxcellent/challenge/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/de/exxcellent/challenge/Read_AnalyseData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/de/exxcellent/challenge/football.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/de/exxcellent/challenge/weather.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/de/exxcellent/challenge/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/exxcellent/challenge/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/exxcellent/challenge/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/exxcellent/challenge/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/exxcellent/challenge/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/exxcellent/challenge/de/exxcellent/challenge/AppTest.java" afterDir="false" />
+    <list default="true" id="59914754-4a3f-40c5-adea-5b2b17ceafdc" name="Changes" comment="+ The Class Read_AnalyseData where added&#10;+ In the App class the functions analyseWeatherData and analyseFootballData where added&#10;+ The pom-file where modified to use appache common CSV dependency">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/continuous-integration.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.asciidoc" beforeDir="false" afterPath="$PROJECT_DIR$/README.asciidoc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +103,26 @@
       <option name="presentableId" value="Default" />
       <updated>1647518686198</updated>
     </task>
+    <task id="LOCAL-00001" summary="+ The Class Read_AnalyseData where added&#10;+ In the App class the functions analyseWeatherData and analyseFootballData where added&#10;+ The pom-file where modified to use appache common CSV dependency">
+      <created>1647870248976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647870248976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -142,6 +130,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -160,7 +153,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="+ The Class Read_AnalyseData where added&#10;+ In the App class the functions analyseWeatherData and analyseFootballData where added&#10;+ The pom-file where modified to use appache common CSV dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ The Class Read_AnalyseData where added&#10;+ In the App class the functions analyseWeatherData and analyseFootballData where added&#10;+ The pom-file where modified to use appache common CSV dependency" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

@@ -1,4 +1,4 @@
-= eXXcellent programming challenge
+= This is an example of Solution of the following eXXcellent programming challenge
 
 This repository provides the project scaffold for a simple
 programming challenge. Though the challenge is very simple
